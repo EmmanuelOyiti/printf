@@ -97,7 +97,7 @@ int print_hexadecimal(va_list types, char buffer[],
 
 /******** PRINT THE UNSIGNED NUMBER IN UPPER HEXADECIMAL **********/
 /**
- * print_hexa_upper - It Prints the unsigned number in upper hexadecimal notation
+ * print_hexa_upper - It Prints unsigned num in upper hexadecimal notation
  * @types: Buffer array should handle the print
  * @buffer: Buffer array should handle the print
  * @flags:  Calculates all active flags
